@@ -230,5 +230,3 @@ const RevenueCalculator = () => {
 };
 
 export default RevenueCalculator;
-
-export default RevenueCalculator;
